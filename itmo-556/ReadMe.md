@@ -5,7 +5,7 @@
 
 
 #Screenshots showing successful installations
-![Screenshot test](image.png)
+![Screenshot test](screenshot-chocolately-version.png)
 
 
 Successful vagrant installation
