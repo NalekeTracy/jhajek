@@ -14,12 +14,12 @@ WhatsApp is owned by Facebook (now Meta Platforms, Inc.), uses a variety of oper
 
 ## What programming languages/frameworks are used?
 WhatsApp uses multiple programming languages and frameworks to build their application. Here are some of the languages and frameworks they use:
-..Java for the Android app
-..Swift for the iOS app
-..Python for the backend infrastructure
-..Erlang for the messaging server
-..Facebook's OpenSource Buck build system
-..ReactNative for WhatsApp Business
+1. Java for the Android app
+2. Swift for the iOS app
+3. Python for the backend infrastructure
+4. Erlang for the messaging server
+5. Facebook's OpenSource Buck build system
+6. ReactNative for WhatsApp Business
 
 ## What storage and what database technologies are used?
 1. Storage: WhatsApp uses a distributed file system, specifically the Facebook-developed Haystack, to store and serve media files like images and videos.
@@ -27,22 +27,22 @@ WhatsApp uses multiple programming languages and frameworks to build their appli
 
 
 ## What Opensource license is the technology stack licensed under?
-Programming languages:
-	..+ Java is used for the Android app's development, allowing for platform-specific optimizations.
-	..+ Swift is used for the iOS app, taking advantage of Apple's modern language features.
-	..+ Python is used for the backend infrastructure, leveraging its simplicity and vast libraries for web development.
-Framework:
-	..+ ReactNative allows for sharing code between iOS and Android, making development more efficient.
-Storage:
-	..+ Haystack is a distributed file system developed by Facebook, enabling scalable storage and serving of media files.
+1. Programming languages:
+Java is used for the Android app's development, allowing for platform-specific optimizations.
+Swift is used for the iOS app, taking advantage of Apple's modern language features.
+Python is used for the backend infrastructure, leveraging its simplicity and vast libraries for web development.
+2. Framework:
+ReactNative allows for sharing code between iOS and Android, making development more efficient.
+3. Storage:
+Haystack is a distributed file system developed by Facebook, enabling scalable storage and serving of media files.
 
-Database:
-	..+ Sharded MySQL provides horizontal scaling and high availability for user data and chat metadata.
-	..+ Cassandra handles high volumes of message data with ease, thanks to its distributed design.
-	..+ HBase is used for data storage and processing, benefiting from its column-family based architecture.
+4. Database:
+Sharded MySQL provides horizontal scaling and high availability for user data and chat metadata.
+Cassandra handles high volumes of message data with ease, thanks to its distributed design.
+HBase is used for data storage and processing, benefiting from its column-family based architecture.
 
-Open source license:
-	..+ MPL-2.0 allows for the free use, modification, and distribution of WhatsApp's code, promoting open source principles.
+5. Open source license:
+MPL-2.0 allows for the free use, modification, and distribution of WhatsApp's code, promoting open source principles.
 These choices enable WhatsApp to deliver a reliable, fast, and feature-rich messaging experience to billions of users worldwide!
 
 
