@@ -85,4 +85,7 @@ By leveraging this technology stack, WhatsApp aims to provide a fast, reliable, 
 Jacob noted that he had experienced the difficulty in finding the right balance between open-sourcing software and commercializing certain features. He observed that open sourcing a feature can lead to gratitude from the community but might also lead to loss of paying customers who were interested solely in that feature. Conversely, commercializing a feature can attract criticism from open-source purists. This balancing act often led to dissatisfaction from different stakeholders, regardless of the approach taken.
 
 
+# My Decision 
+I agree with Adam Jacob 
+
  
