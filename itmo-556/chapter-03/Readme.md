@@ -54,3 +54,10 @@
 
 ![Screenshot](NeonOS.png)
 
+
+## Screenshot for MarinerOS
+![Screenshot](MarinerOS-1.png) 
+
+
+## Screenshot for FreeBSD
+![Screenshot](FreeBSD-1.png)
