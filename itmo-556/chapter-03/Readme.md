@@ -1,7 +1,7 @@
 
 
 ## screenshot for Almalinux
-![Screenshot](AlmaLinux GUI.png>)
+![Screenshot](AlmaLinuxGUI.png>)
 
 ## screenshot for archlinux
 ![Screenshot](ArchLinux.png>)
