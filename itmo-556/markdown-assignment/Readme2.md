@@ -133,3 +133,12 @@ Jacob noted that he had experienced the difficulty in finding the right balance 
 ## Screenshot for Xebian
 
 ![Screenshot](Xebian.png)
+
+## Screenshot for OpenSUSE
+
+![Screenshot](OpenSUSE.png)
+
+## Screenshot for NeonUser
+
+![Screenshot](NeonOS.png)
+
