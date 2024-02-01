@@ -1,14 +1,14 @@
 
 
 ## screenshot for Almalinux
-![Screenshot](AlmaLinuxGUI.png>)
+![Screenshot](AlmaLinuxGUI.png)
 
 ## screenshot for archlinux
-![Screenshot](ArchLinux.png>)
+![Screenshot](ArchLinux.png)
 
 
 ## screenshot for debian12
-![Screenshot](DEBIAN12.png>)
+![Screenshot](DEBIAN12.png)
 
 
 ## Screenshot for Lubuntu
