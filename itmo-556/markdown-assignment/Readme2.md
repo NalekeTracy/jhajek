@@ -79,3 +79,40 @@
 
 ## Describe one clear point you took away from this article relating to technology and infrastructure?
 
+# Summary of Adam Jacob's opinion on running a company with open source products
+
+
+Adam Jacob in highlighting the intricate dynamics of managing a company with an open-source product, emphasized the importance of community, collaboration, and sustainable business practices. He valued the optionality and opportunities that open source provides to individuals, which he personally experienced in his early years. He believes that open source is about bringing people together around a shared resource, turning it from something scarce to something infinitely available. He however acknowledged the complexity and challenges involved in balancing open-source commitments with the financial aspects of running a business.
+
+Jacob noted that he had experienced the difficulty in finding the right balance between open-sourcing software and commercializing certain features. He observed that open sourcing a feature can lead to gratitude from the community but might also lead to loss of paying customers who were interested solely in that feature. Conversely, commercializing a feature can attract criticism from open-source purists. This balancing act often led to dissatisfaction from different stakeholders, regardless of the approach taken.
+
+
+
+## screenshot for Almalinux
+![Screenshot](AlmaLinux GUI.png>)
+
+## screenshot for archlinux
+![Screenshot](ArchLinux.png>)
+
+
+## screenshot for debian12
+![Screenshot](DEBIAN12.png>)
+
+
+## Screenshot for Lubuntu
+![Screenshot](Lubuntu.png)
+
+## Screenshot for PopOS
+![Screenshot](popOS.png)
+
+## Screenshot for Ubuntu
+
+![Screenshot](Ubuntu.png)
+
+## Screenshot for Xubuntu
+
+![Screenshot](Xubuntu.png)
+
+## Screenshot for Trisquel
+
+![Screenshot](Trisquel.png)
