@@ -116,3 +116,20 @@ Jacob noted that he had experienced the difficulty in finding the right balance 
 ## Screenshot for Trisquel
 
 ![Screenshot](Trisquel.png)
+
+
+## Screenshot for Fedora
+
+![Schreenshot](Fedora.png)
+
+## Screenshot for pureOS
+
+![Screenshot](PureOS.png)
+
+## Screenshot for Ubuntu Server
+
+![Screenshot](UbuntuServer.png)
+
+## Screenshot for Xebian
+
+![Screenshot](Xebian.png)
