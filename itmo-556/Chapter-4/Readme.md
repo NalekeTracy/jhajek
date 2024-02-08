@@ -26,8 +26,9 @@ The log out button – this adds logout button to the panel for easy access.
 ## Ubuntu Snap install
 ![Snap Install](Ubuntusnipping.png)
 
+## Flatpak Install
 
-
+![flatpakinstall](FlatpakInstall.png)
 
 
 # Appimage Install
