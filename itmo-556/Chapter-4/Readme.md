@@ -23,6 +23,10 @@ The log out button – this adds logout button to the panel for easy access.
 
 ![logoutbutton](Logoutbutton.png)
 
+## The Power off button
+
+![POWER_OFF_AND_LOGOUT_BUTTON](POWER_OFF_AND_LOGOUT_BUTTON.png)
+
 ## Ubuntu Snap install
 ![Snap Install](Ubuntusnipping.png)
 
